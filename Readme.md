@@ -28,7 +28,7 @@ Please make sure the following Python dependencies are installed before running 
 
 
 ## Run
-After making sure the all the required libraries are installed, use the following commands for the individual algorithms to run the program : 
+After making sure all the required libraries are installed, use the following commands for the individual algorithms to run the program : 
 - AES : python3 AES.py path_to_the_input_Image
 - Modular_Binary : python3 Modular_Binary.py 5
 - Modular_Color : python3 Modular_Color.py 2 path_to_the_input_image
